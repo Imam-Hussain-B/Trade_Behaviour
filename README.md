@@ -1,4 +1,6 @@
-# Trade_Behaviour
+
+# Impact of Market Sentiment on Trader Performance in the Crypto Market
+
 ## 🟦 1. Objective
 Explore how market sentiment (Fear/Greed) influences trader behavior, performance, and coin sensitivity in crypto markets.
 
@@ -51,3 +53,6 @@ Adjust coin strategies based on sentiment (e.g., avoid @1 in Greed)
 ## 🟨 6. Conclusion
 Sentiment strongly influences crypto trading behavior.
 By combining sentiment data with trade performance, we can design smarter, sentiment-aware strategies to manage risk and improve profitability.
+
+
+
